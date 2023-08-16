@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<h1 align="center">Hi 👋, I'm Rushikesh Parte</h1>
+<h1 align="center">Hi 👋, I'm Lavkush Tari</h1>
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [Click](https://medium.com/@rushikeshparte10)
 
-- 📫 How to reach me **rushikeshparte10@gmail.com**
+- 📫 How to reach me **lavkushtari78@gmail.com**
 
 <br/>
 
@@ -48,7 +48,7 @@ href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rushikesh-parte-b0b1831b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg1tQGsYcSMGOrK%2B9XTk7%2Bg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushikesh-parte-b0b1831b6/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rushi__0203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rushi__0203/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/lovekush_tari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rushi__0203/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@rushikeshparte10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@rushikeshparte10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/rushikeshparte10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rushikeshparte10" height="30" width="40" /></a>
 </p>
