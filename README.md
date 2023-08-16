@@ -10,7 +10,7 @@
 <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coading" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi2784&label=Profile%20views&color=0e75b6&style=flat" alt="rushi2784" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavkushtari&label=Profile%20views&color=0e75b6&style=flat" alt="lavkushtari" /> </p>
 
 - 💬 Ask me about **MERN**
 
@@ -20,9 +20,9 @@
 
 -  📝 You can check my resume here [Resume](https://drive.google.com/drive/folders/1zAYfxlLfiN5BPMVwUOyRiDXD7yAKjZst)
  
-- 👨‍💻 All of my projects are available at [Portfolio](https://rushi-parte.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://lavkush-tari.vercel.app/)
 
-- 📝 I regularly write articles on [Click](https://medium.com/@rushikeshparte10)
+- 📝 I regularly write articles on [Click](https://medium.com/@lovekustari)
 
 - 📫 How to reach me **lavkushtari78@gmail.com**
 
@@ -55,10 +55,10 @@ href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi2784&show_icons=true&locale=en&bg_color=000000&hide_border=true&text_color=ffffff&include_all_commits=true&hide=&count_private=true" alt="rushi2784" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavkushtari&show_icons=true&locale=en&bg_color=000000&hide_border=true&text_color=ffffff&include_all_commits=true&hide=&count_private=true" alt="lavkushtari" /></p>
 
-<p align="center"><a  href="https://github.com/rushi2784"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rushi2784&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+<p align="center"><a  href="https://github.com/lavkushtari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lavkushtari&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
-<!-- <a href="https://github.com/rushi2784"><img src="https://activity-graph.herokuapp.com/graph?username=rushi2784&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<!-- <a href="https://github.com/lavkushtari"><img src="https://activity-graph.herokuapp.com/graph?username=lavkushtari&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rushi2784&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lavkushtari&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
